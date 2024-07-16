@@ -52,4 +52,12 @@ A blog is an online platform where individuals or businesses regularly share the
     - Superusers have the ability to delete any post on the platform.
     - Ensures website ethics and values are maintained.
 
+### Snapshots
+
+![Main Page1](images/mainpage1.png)
+
+![Main Page2](images/mainpage2.png)
+
+![Admin Page](images/superuser.png)
+
 
